@@ -1,4 +1,4 @@
-title: Researcher
+title: Agustin Lorenzo
 url: "https://ankitsultana.com"
 baseurl: ""
 
@@ -17,8 +17,10 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
- - name: "Resume"
+   link: "index"
+ - name: "CV"
    link: "resume.pdf"
+ - name: "Portfolio"
+   link: "portfolio"
  - name: "Contact"
    link: "contact"
