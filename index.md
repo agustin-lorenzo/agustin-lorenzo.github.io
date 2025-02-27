@@ -6,13 +6,13 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hello,
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+I am a graduate student at the University of Georiga pursuing an MS in artificial intelligence. Prior to my MS, I also completed my BA in cognitive science with a minor in statistics at UGA. 
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+I am mainly interested in the intersection between neuroscience and AI and the fundemental characteristics of intelligence that define them both. I am currently working on my master's thesis, where I use vision transformer models to recognize emotions from EEG data. 
 
 ## Publications
 
