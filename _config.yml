@@ -22,5 +22,7 @@ nav:
    link: "resume.pdf"
  - name: "Portfolio"
    link: "portfolio"
+ - name: "Resources"
+   link: "resources"
  - name: "Contact"
    link: "contact"
