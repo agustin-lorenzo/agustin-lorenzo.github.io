@@ -1,1 +1,1 @@
-[Recognizing Emotions from EEG Data with Vision Transformers and Continuous Wavelet Transform](https://github.com/agustin-lorenzo/emotion-recognition-thesis)
+## [Recognizing Emotions from EEG Data with Vision Transformers and Continuous Wavelet Transform](https://github.com/agustin-lorenzo/emotion-recognition-thesis)
