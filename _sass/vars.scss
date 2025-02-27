@@ -2,11 +2,11 @@
  * Customization Variables
  */
 
-$accent: #db273f;
+$accent: #1e7037;
 $image-size: 100px; /* used to be 85 */
 
 /* dark theme */
-$background: #2b2b2b;
+$background: #141414;
 $text-color: #ffffff;
 $border-color: #444444;
 $accent-hover: lighten($accent, 20%);
@@ -15,6 +15,6 @@ $accent-hover: lighten($accent, 20%);
  * Build Variables, don't touch
  */
 
-$max-width: 800px; /* used to be 700 */
+$max-width: 700px; /* used to be 700 */
 $med-width: 600px;
 $small-width: 480px;
