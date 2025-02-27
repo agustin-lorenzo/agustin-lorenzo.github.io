@@ -8,38 +8,8 @@ layout: default
 
 Hello,
 
-I am a graduate student at the University of Georiga pursuing an MS in artificial intelligence. Prior to my MS, I also completed my BA in cognitive science with a minor in statistics at UGA. 
+I am a graduate student at the University of Georiga pursuing an MS in artificial intelligence. Prior to my MS, I completed my BA in cognitive science with a minor in statistics, also at UGA.
 
 ## Research Interest
 
-I am mainly interested in the intersection between neuroscience and AI and the fundemental characteristics of intelligence that define them both. I am currently working on my master's thesis, where I use vision transformer models to recognize emotions from EEG data. 
-
-## Publications
-
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
-
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+I am mainly interested in the intersection between neuroscience and AI and the fundemental characteristics of intelligence that define them both. I am currently working on my master's thesis, where I use vision transformer models to recognize emotions from EEG data.

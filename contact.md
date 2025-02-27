@@ -3,24 +3,19 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [agustin.lorenzo@uga.edu](mailto:agustin.lorenzo@uga.edu)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [(762)-217-6375](tel:7622176375)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
+> n/a
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Github](github.com/agustin-lorenzo)
+2. [LinkedIn](www.linkedin.com/in/agustin-lorenzo-449275250)
