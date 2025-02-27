@@ -5,6 +5,12 @@
 $accent: #0d6e0d;
 $image-size: 100px; /* used to be 85 */
 
+/* dark theme */
+$background: #000000;
+$text-color: #ffffff;
+$border-color: #444444;
+$accent-hover: lighten($accent, 20%);
+
 /*
  * Build Variables, don't touch
  */
