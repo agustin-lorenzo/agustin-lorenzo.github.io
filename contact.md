@@ -17,5 +17,5 @@ is_contact: true
 
 ## Social
 
-1. [Github](github.com/agustin-lorenzo)
-2. [LinkedIn](www.linkedin.com/in/agustin-lorenzo-449275250)
+1. [Github](https://github.com/agustin-lorenzo)
+2. [LinkedIn](https://www.linkedin.com/in/agustin-lorenzo-449275250)
