@@ -14,6 +14,10 @@ layout: default
 
 ## [SnakeAI](https://github.com/agustin-lorenzo/snakeAI)
 ##### *Personal project*
-<img src="figures/snake.png" alt="snake" style="width:200px;"/>
+<img src="figures/snake.png" alt="snake" style="width:300px;"/>
 * Creating Snake from scratch using C++ and [SFML](https://www.sfml-dev.org/index.php) library
 * Implenting AI-mode with pathfinding algorithm
+
+---
+
+## [Blondie24 on Connect4]
