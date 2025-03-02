@@ -9,6 +9,7 @@ layout: default
 * Extracting continuous wavelet transform features from EEG data using [fCWT](https://github.com/fastlib/fCWT) library
 * Training vision transformers from [vit-pytorch](https://github.com/lucidrains/vit-pytorch#3d-vit) on CWT features
 * Finetuning pretrained vision transformers for private dataset
+
 ---
 
 ## [SnakeAI](https://github.com/agustin-lorenzo/snakeAI)
