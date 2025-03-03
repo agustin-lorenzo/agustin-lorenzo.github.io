@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="profile2.png"/>
+<img class="profile-picture" src="profile.png"/>
 
 Hello,
 
