@@ -13,12 +13,13 @@ layout: default
 ---
 
 ---
-[retroAI](https://github.com/agustin-lorenzo/retroAI)
+## [retroAI](https://github.com/agustin-lorenzo/retroAI)
 #### *Personal project*
-<img src="figures/retro.gif" alt="retro" style="width:400px;"/>
+<img src="figures/retro.gif" alt="retro" style="width:200px;"/>
 * Implementation of NEAT (Neuroevolution of Augmenting Topologies) algorithm
 * Evolving neural network topologies based on success in retro video game environment
 * Evolved network to play retro games like Ms. Pacman
+
 ---
 
 ## [snakeAI](https://github.com/agustin-lorenzo/snakeAI)
