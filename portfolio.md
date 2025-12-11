@@ -2,11 +2,11 @@
 layout: default
 ---
 
-## [Wordnav]
+## Wordnav
 #### *Web puzzle game where you string together two-word phrases to navigate from one word to another*
 <img src="figures/wordnav.gif" alt="wordnav" style="width:300px;"/>
 * Generating small dataset of two-word phrases
-* Constructing graph object containing word relationship and navigating with DFS to obtain chain of words
+* Constructing graph object containing word relationships and navigating with DFS to obtain chain of words
 * Implementing front-end interface with [Hyperdiv](https://hyperdiv.io/) framework in Python
 
 ---
