@@ -2,6 +2,15 @@
 layout: default
 ---
 
+## [Wordnav]
+#### *Web puzzle game where you string together two-word phrases to navigate from one word to another*
+<img src="figures/wordnav.gif" alt="wordnav" style="width:300px;"/>
+* Generating small dataset of two-word phrases
+* Constructing graph object containing word relationship and navigating with DFS to obtain chain of words
+* Implementing front-end interface with [Hyperdiv](https://hyperdiv.io/) framework in Python
+
+---
+
 ## [Recognizing Emotions from EEG Data with Vision Transformers and Continuous Wavelet Transform](https://github.com/agustin-lorenzo/emotion-recognition-thesis)
 #### *Master's Thesis, Institute for Artificial Intelligence, University of Georgia*
 <img src="figures/cwt.gif" alt="cwt" style="width:300px;"/>
