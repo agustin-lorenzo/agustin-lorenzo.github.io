@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Wordnav
+## [wordnav.net](https://www.wordnav.net)
 #### *Web puzzle game where you string together two-word phrases to navigate from one word to another*
 <img src="figures/wordnav.gif" alt="wordnav" style="width:300px;"/>
 * Generating small dataset of two-word phrases
