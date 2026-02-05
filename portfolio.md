@@ -4,7 +4,7 @@ layout: default
 
 # Statement on Generative AI
 
-I realize that today, with the advent of "vibe-coding" it is easier than ever to develop small scale projects for a portfolio. With that in mind, I want to make it clear that, for my recreational work, I make it a point to **as little generative AI as possible** throughout the development process.
+I realize that today, with the advent of "vibe-coding" it is easier than ever to develop small scale projects for a portfolio. With that in mind, I want to make it clear that, for my recreational work, I make it a point to use **as little generative AI as possible** throughout the development process.
 
 I do these projects for fun, and for the learning experience. In the rare cases where I do use generative AI, I use it as a last resort, and I make a real effort to *learn from it* rather than just prompting it to complete the project -- in my eyes, that defeats the purpose.
 
