@@ -42,7 +42,7 @@ For the following projects, I always aimed to minimize the use of generative AI 
 
 ## [retroAI](https://github.com/agustin-lorenzo/retroAI)
 #### *Personal project*
-<img src="figures/retro.gif" alt="retro" style="width:200px; height:350px;"/>
+<img src="figures/retro.gif" alt="retro" style="width:300px; height:300px;"/>
 * Implementation of NEAT (Neuroevolution of Augmenting Topologies) algorithm
 * Evolving neural network topologies based on success in retro video game environment
 * Evolved network to play retro games like Ms. Pacman
