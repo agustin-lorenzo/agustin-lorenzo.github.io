@@ -21,6 +21,8 @@ For the following projects, I always aimed to minimize the use of generative AI 
 * Achieved F1 scores >= 0.99
 * Hosted on Hugging Face Spaces with Gradio UI
 
+---
+
 ## [wordnav.net](https://www.wordnav.net)
 #### *Web puzzle game where you string together two-word phrases to navigate from one word to another*
 <img src="figures/wordnav.gif" alt="wordnav" style="width:300px;"/>
