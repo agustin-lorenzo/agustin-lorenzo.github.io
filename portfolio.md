@@ -13,6 +13,14 @@ For the following projects, I always aimed to minimize the use of generative AI 
 ---
 ---
 
+## [Philosophy Classifier](https://huggingface.co/spaces/agustin-lorenzo/Philosophy-Classifier)
+#### *Finetuned BERT classifier that determines what school of philosophy a piece of text is closest aligned with*
+<img src="figures/phil.gif" alt="phil" style="width:300px;"/>
+* Curated dataset containing text entries that represent four schools of philosophy
+* Finetuned DistilBERT model on dataset
+* Achieved F1 scores >= 0.99
+* Hosted on Hugging Face Spaces with Gradio UI
+
 ## [wordnav.net](https://www.wordnav.net)
 #### *Web puzzle game where you string together two-word phrases to navigate from one word to another*
 <img src="figures/wordnav.gif" alt="wordnav" style="width:300px;"/>
