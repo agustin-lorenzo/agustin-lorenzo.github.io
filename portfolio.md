@@ -20,6 +20,7 @@ For the following projects, I always aimed to minimize the use of generative AI 
 * Finetuned model to either detect whether a fallacy is present in text (F1 >= 0.95)
 * Finetuned model for multi-label classification to identify most likely fallacies present (F1 >= 0.95)
 * Hosted on Hugging Face Spaces with Gradio UI
+* Currently implementing RESTful API with rate limiting and request logging for scalable inference and programmatic access
 
 ---
 
