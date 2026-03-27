@@ -17,8 +17,8 @@ For the following projects, I always aimed to minimize the use of generative AI 
 #### *Finetuned BERT models that detect and classify potential fallacies found in a string of text*
 * Gathered datasets for detecting and classifying multiple fallacies found in text entries
 * Generated synthetic data by utilizing LLMs to add or remove fallacies from real-world examples
-* Finetuned model to either detect whether a fallacy is present in text (F1 >= 0.95)
-* Finetuned model for multi-label classification to identify most likely fallacies present (F1 >= 0.95)
+* Finetuned model to either detect whether a fallacy is present in text
+* Finetuned model for multi-label classification to identify most likely fallacies present
 * Hosted on Hugging Face Spaces with Gradio UI
 * Currently implementing RESTful API with rate limiting and request logging for scalable inference and programmatic access
 
@@ -29,7 +29,6 @@ For the following projects, I always aimed to minimize the use of generative AI 
 <img src="figures/phil.gif" alt="phil" style="width:300px;"/>
 * Curated dataset containing text entries that represent four schools of philosophy
 * Finetuned DistilBERT model on dataset
-* Achieved F1 scores >= 0.99
 * Hosted on Hugging Face Spaces with Gradio UI
 
 ---
