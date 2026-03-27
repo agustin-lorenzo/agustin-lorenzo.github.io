@@ -15,6 +15,7 @@ For the following projects, I always aimed to minimize the use of generative AI 
 
 ## [Fallacy Detector](https://huggingface.co/spaces/agustin-lorenzo/fallacy-detector)
 #### *Finetuned BERT models that detect and classify potential fallacies found in a string of text*
+<img src="figures/fallacy.gif" alt="fallacy" style="width:300px;"/>
 * Gathered datasets for detecting and classifying multiple fallacies found in text entries
 * Generated synthetic data by utilizing LLMs to add or remove fallacies from real-world examples
 * Finetuned model to either detect whether a fallacy is present in text
