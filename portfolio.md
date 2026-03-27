@@ -15,7 +15,7 @@ For the following projects, I always aimed to minimize the use of generative AI 
 
 ## [Fallacy Detector](https://huggingface.co/spaces/agustin-lorenzo/fallacy-detector)
 #### *Finetuned BERT models that detect and classify potential fallacies found in a string of text*
-<img src="figures/fallacy.gif" alt="fallacy" style="width:300px;"/>
+<img src="figures/fallacy.gif" alt="fallacy" style="width:400px;"/>
 * Gathered datasets for detecting and classifying multiple fallacies found in text entries
 * Generated synthetic data by utilizing LLMs to add or remove fallacies from real-world examples
 * Finetuned model to either detect whether a fallacy is present in text
@@ -27,7 +27,7 @@ For the following projects, I always aimed to minimize the use of generative AI 
 
 ## [Philosophy Classifier](https://huggingface.co/spaces/agustin-lorenzo/Philosophy-Classifier)
 #### *Finetuned BERT classifier that determines what school of philosophy a piece of text is closest aligned with*
-<img src="figures/phil.gif" alt="phil" style="width:300px;"/>
+<img src="figures/phil.gif" alt="phil" style="width:400px;"/>
 * Curated dataset containing text entries that represent four schools of philosophy
 * Finetuned DistilBERT model on dataset
 * Hosted on Hugging Face Spaces with Gradio UI
